@@ -1,0 +1,12 @@
+streamlit
+supabase
+pandas
+plotly
+folium
+streamlit-folium
+python-dotenv
+altair>=5.0.0
+google-generativeai
+pyTelegramBotAPI
+python-dotenv
+requests
